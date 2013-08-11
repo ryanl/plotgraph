@@ -16,6 +16,7 @@ to someone else.
 
 Visit www.ryanlothian.com for some more recent projects.
 
+To contact me, e-mail website <at> ryanlothian.com.
 
 License 
 -------
