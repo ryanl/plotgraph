@@ -1,0 +1,9 @@
+fill white
+axis X -5 5 1
+axis Y -2 2 0.5
+axispair_cartesian X Y
+drawaxes
+equationplot y=(1/(1+(x^2)))+(1/(1+(x^2)))
+equationplot y=(1/(1+((x-1)^2)))+(1/(1+((x+1)^2)))
+equationplot y=(1/(1+((x-2)^2)))+(1/(1+((x+2)^2)))
+end

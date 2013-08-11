@@ -1,0 +1,8 @@
+fill white
+axis X -5 5 1
+axis Y -2 2 0.5
+axispair_cartesian X Y
+drawaxes
+equationplot y=(1^-0.5)*(2.71828^(-(x^2)/(4)))
+equationplot y=(2^-0.5)*(2.71828^(-(x^2)/(8)))
+end
